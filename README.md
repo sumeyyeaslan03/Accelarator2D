@@ -3,7 +3,7 @@
 
 If you think the speed of the ball is too high or too low, you can change it.
 
-[![Accelarator2D](https://img.youtube.com/vi/3qbhriHZcXU)](https://www.youtube.com/watch?v=3qbhriHZcXU)
+[![Accelarator2D](https://video.youtube.com/vi/3qbhriHZcXU)](https://www.youtube.com/watch?v=3qbhriHZcXU)
 
 
 
